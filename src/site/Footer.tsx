@@ -58,7 +58,7 @@ export default function Footer() {
                   </>
                   : <>
                     <Link href={PATH_ADMIN_PHOTOS}>
-                      Admin
+                      Squanchy
                     </Link>
                     {SHOW_REPO_LINK &&
                       <RepoLink />}
